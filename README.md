@@ -1,8 +1,31 @@
-# martin-sn.github.io
+# Martin Søgaard Nielsen
 
-Test test
+## Projects
 
-## 123
+### Forecasting Cryptocurrencies in a High Frequency Setting using Deep Neural Networks
 
-### 456 
+Master's thesis
+
+#### Keywords 
+- Deep Neural Networks
+- High Frequency Limit Order Book Data
+
+### Forecasting 1-day price Fluctations of Bitcoin using Sentiment Analysis
+
+Research was conducted as a part of the Applied Data Science coure at Aarhus University
+
+#### Keywords
+
+- Machine Learning
+- Web Scraping
+- 
+
+#### The CAPM's inferences about Bitcoin and the Market Portfolio Proxy Problem
+
+Bachelor's Thesis
+
+#### Keywords
+
+- Asset Pricing
+- CAPM 
 
