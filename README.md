@@ -1,30 +1,35 @@
 # Martin Søgaard Nielsen
 
-## Projects
+Linkedin: https://linkedin.com/in/martin-sn
+Kaggle: https://www.kaggle.com/martinsn
 
-### Forecasting Cryptocurrencies in a High Frequency Setting using Deep Neural Networks
+## Previous projects
 
-Master's thesis
+### 1. Forecasting Cryptocurrencies in a High Frequency Setting using Deep Neural Networks
 
-#### Keywords 
+#### 1.1 Keywords 
 - Deep Neural Networks
-- High Frequency Limit Order Book Data
+- High Frequency
+- Limit Order Book Data
 
-### Forecasting 1-day price Fluctations of Bitcoin using Sentiment Analysis
+#### 1.2 Introduction 
+
+
+### 2. Forecasting 1-day price Fluctations of Bitcoin using Sentiment Analysis
 
 Research was conducted as a part of the Applied Data Science coure at Aarhus University
 
-#### Keywords
+#### 2.2 Keywords
 
-- Machine Learning
+- Natural Language Processing
 - Web Scraping
-- 
+- XGBoost  
 
-#### The CAPM's inferences about Bitcoin and the Market Portfolio Proxy Problem
+#### 3. The CAPM's inferences about Bitcoin and the Market Portfolio Proxy Problem
 
 Bachelor's Thesis
 
-#### Keywords
+#### 3.1 Keywords
 
 - Asset Pricing
 - CAPM 
