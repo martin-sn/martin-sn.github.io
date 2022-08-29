@@ -1,10 +1,11 @@
-# Martin Søgaard Nielsen
+# Hi, I'm Martin Søgaard Nielsen
 The purpose of this site is to share some of the projects i have previously worked on. 
 The site is still heavily work in process, therefore mistakes may be present and sections might be missings. 
 
 ## About me 
 MSc. Business Intelligence, Aarhus University
 Linkedin: https://linkedin.com/in/martin-sn
+Github: https://github.com/martin-sn
 Kaggle: https://www.kaggle.com/martinsn
 
 ## Research projects
@@ -55,18 +56,9 @@ The main goal of this project was to investigate whether using a market proxy pa
 
 ## Kaggle Projects
 
-##### Optiver Realized Volatily Prediction 
+##### [Optiver Realized Volatily Prediction](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction)
+The goal of this project was to predit the realized volatility for the next 30 minutes using high frequency data for a large set of stocks. The project was complicated as the stock names and their timestaps had been obscurated. I did not have much time to put in to this project, but i managed to come up with an approriate cross validation setup and by using a gradient boosting algorithm i was able to get a reasonable result. 
 
 
-
-
-
-##### Aarhus University Data Mining Competition 
+##### [Aarhus University Data Mining Competition](https://www.kaggle.com/competitions/audm01)
 In-class competition with the goal of predicting customer churn for a telecom. The dataset was a fairly straight forward tabular set, which featured a few challenges in terms of missing values and formatting. The winning solution was an ensemble of sevral gradient boosting algorithms. 
-
-
-
-
-
-
-
